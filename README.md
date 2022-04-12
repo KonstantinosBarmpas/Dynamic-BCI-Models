@@ -14,4 +14,7 @@ Visit: https://objects-structure-causality.github.io
 
 In this work, we employ causal reasoning to breakdown and analyze important challenges of the decoding of Motor-Imagery (MI) electroencephalography (EEG) signals. Furthermore, we present a framework consisting of dynamic convolu- tions, that address one of the issues that arises through this causal investigation, namely the subject distribution shift (or inter-subject variability). Using a publicly available MI dataset, we demonstrate increased cross-subject performance in two different MI tasks for four well-established deep architectures.
 
+[poster]: ./images/iclr2022_poster.png "ICLR2022_poster"
+![poster]
+
 ---
