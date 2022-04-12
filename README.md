@@ -8,7 +8,7 @@ Published in <strong>ICLR 2022</strong> Workshop on the Elements of Reasoning: O
 
 Authors: <strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou 
 
-Visit: https://www.research-collection.ethz.ch/handle/20.500.11850/531617
+Visit: https://objects-structure-causality.github.io
 
 ---
 
